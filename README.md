@@ -1,6 +1,6 @@
-# Biomedical Engineering ECG project
-Bioengineering/ECG
+# Biomedical Engineering ECG project (code)
 
-My Masters Thesis : ECG Diagnosis Using Data Sonification
+
+Masters Thesis : ECG Diagnosis Using Data Sonification
 
 by Adam Yassin
